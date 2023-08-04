@@ -5,5 +5,5 @@ As a dedicated developer, I have created this update to showcase my continued ef
 
 Key updates Features:
 
-HashTableArray.java:
-The HashTableArray class represents a hash table data structure. It provides fast retrieval and storage of foolthief incident data based on a key-value mapping.
+# HashTable:
+The HashTable class represents a hash table data structure. It provides fast retrieval and storage of foolthief incident data based on a key-value mapping.
