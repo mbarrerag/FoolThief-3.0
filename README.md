@@ -7,3 +7,5 @@ Key updates Features:
 
 # HashTable:
 The HashTable class represents a hash table data structure. It provides fast retrieval and storage of foolthief incident data based on a key-value mapping.
+![image](https://github.com/mbarrerag/FoolThief-3.0/assets/101472701/0519f1cc-7b39-49ad-800f-347c780cd8e0)
+
